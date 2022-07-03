@@ -1,0 +1,9 @@
+h1
+{
+  color: purple;
+}
+.welcome
+{
+  text-align:center;
+  background-color : linear-gradient (#674ea7 0%, #ffafc1 100%);
+}
